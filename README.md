@@ -1,2 +1,3 @@
-# Who-is-drunk-and-When-
-##Data Maniplation (datacamp)
+# Who-is-drunk-and-When-In-Ames?
+##Datacamp
+A project on data manipulation and visualization.
